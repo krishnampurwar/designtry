@@ -1,0 +1,25 @@
+.iconcontainer{
+    background-color:transparent;
+   width: fit-content;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.icon{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px #DAE0E6 solid;
+    padding: 5px;
+    background-color: transparent;
+}
+.para{
+    margin: 2px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+color: #5F6D7E;
+}
